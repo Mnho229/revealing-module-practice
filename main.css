@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+.operator {
+    display:inline-block;
+    padding: 10px;
+    background-color: #F1F1F1;
+    border-radius: 5px;
+}
