@@ -6,6 +6,12 @@ body {
     text-align: center;
 }
 
+#operator-container {
+    display: inline-block;
+    border-top: 1px solid black;
+    padding-top: 25px;
+}
+
 .operator {
     display:inline-block;
     padding: 10px;
@@ -13,6 +19,14 @@ body {
     border-radius: 5px;
 }
 
+.operator:hover {
+    background-color: #FEFF99;
+}
+
 .selected {
     background-color: #CEF7B5;
+}
+
+#data-entry {
+    margin-top: 20px;
 }
