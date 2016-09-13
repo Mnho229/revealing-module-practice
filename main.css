@@ -12,3 +12,7 @@ body {
     background-color: #F1F1F1;
     border-radius: 5px;
 }
+
+.selected {
+    background-color: #CEF7B5;
+}
